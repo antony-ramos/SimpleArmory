@@ -1548,14 +1548,6 @@
             "spellid": 408265
           },
           {
-            "ID": 3549,
-            "creatureId": 204360,
-            "icon": "inv_mothunderlight_pink",
-            "itemId": 205156,
-            "name": "Heartseeker Moth",
-            "spellid": 408311
-          },
-          {
             "ID": 3550,
             "creatureId": 204361,
             "icon": "inv_mothunderlight_red",
@@ -7703,6 +7695,14 @@
             "itemId": 116155,
             "name": "Lovebird Hatchling",
             "spellid": 132762
+          },
+          {
+            "ID": 3549,
+            "creatureId": 204360,
+            "icon": "inv_mothunderlight_pink",
+            "itemId": 205156,
+            "name": "Heartseeker Moth",
+            "spellid": 408311
           }
         ],
         "name": "Love is in the Air"
